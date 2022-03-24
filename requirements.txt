@@ -1,0 +1,7 @@
+requests==2.24.0
+cryptography==3.4.7
+Flask==1.1.2
+psycopg2==2.8.6
+PyJWT==2.3.0
+python-dotenv==0.19.2
+itsdangerous==2.0.1
